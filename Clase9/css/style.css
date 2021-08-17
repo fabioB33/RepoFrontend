@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.header {
+    background-color: black;
+    margin-bottom: 20px;
+}
+.titulo, .titulo-items {
+    color: blanchedalmond;
+}
+
+
+.Logo{
+    margin-left: 0px;
+}
+
+.seccionConLogo{
+    background-color: orange;
+    
+}
+.TituloPlacer {
+    position:relative;
+    left: 454px;
+}
+
+.tituloDescuento{
+    position: relative;
+top: 70px;
+left: 470px;
+}
+.Comederos {
+    position: relative;
+    top: 100px;
+left: 520px;
+}
