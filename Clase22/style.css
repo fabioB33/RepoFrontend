@@ -1,0 +1,70 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 65.2%;
+}
+
+body header h1 {
+  font-style: normal;
+  font-weight: bold;
+  color: #005677;
+  font-size: 3rem;
+  background-color: #c4c4c4;
+  text-align: center;
+}
+
+body header .batmanImg {
+  width: 22vw;
+  position: relative;
+  left: 30rem;
+}
+
+body main {
+  padding: 15vw;
+}
+
+body main h2 a {
+  padding: 15px;
+  margin-left: 27rem;
+}
+
+body main .title {
+  font-weight: bold;
+  color: #005677;
+  background-color: #c4c4c4;
+  font-size: 2rem;
+  width: 100vw;
+  height: 8vh;
+  padding: 2px;
+}
+
+body main .lista {
+  margin: 1.5rem 1.5rem 1.5rem 4.5rem;
+  line-height: 2rem;
+}
+
+body footer {
+  background-color: #005677;
+  height: 3.5rem;
+}
+
+body footer .Batman {
+  color: white;
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  padding-top: 5px;
+}
+
+body footer img {
+  position: relative;
+  left: 60vw;
+  bottom: 24px;
+}
+/*# sourceMappingURL=style.css.map */
